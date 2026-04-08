@@ -1,5 +1,6 @@
 # grauExercicios
 Repositorio de exercícios da última máteria.
 
-Aviso 🚨
+Avisos 🚨
 Cole o código dos arquivos script.js no Expo snack, sobrescrevendo no arquivo App.js.
+Se necessário adicione as dependências no Expo Stack.
